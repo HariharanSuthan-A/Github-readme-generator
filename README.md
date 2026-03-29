@@ -1,4 +1,4 @@
-# 📝 README Auto-Generator
+# 📝 README Content Generator
 
 
 
@@ -76,7 +76,7 @@ groq_api_key = "your_groq_api_key"
     ```
 
 3.  **Review the Result:** The script will output the generated Markdown content. If running in a Jupyter environment, it will render as formatted Markdown.
-
+       If you use code editors like VS code or any code editors, Use extensions to pretty print or right-click on generated md file and open preview. 
 ---
 
 ## 📜 Project Structure
@@ -89,10 +89,13 @@ groq_api_key = "your_groq_api_key"
 
 ## 🤝 Credits & Contributors
 
-*   **Author:** `github-username` (Replace with your actual handle)
+*   **Author:** `A.Hariharansuthan`
 *   **Powered By:** LangChain, Tavily, and Groq.
+  
 
 ---
+
+Star ⭐ this repo!
 
 ## 📄 License
 
