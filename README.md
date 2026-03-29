@@ -1,6 +1,6 @@
 # 📝 README Auto-Generator
 
-![Banner](banner.png)
+
 
 A high-performance Python automation script that leverages **LangChain**, **Tavily Extract**, and **Groq LLM** to automatically generate professionally formatted, comprehensive `README.md` files by analyzing hosted websites and GitHub repository data.
 
